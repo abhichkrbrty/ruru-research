@@ -1,0 +1,13 @@
+Metric,Result
+Signals analyzed,2831.0
+UP signals,1390.0
+DOWN signals,1441.0
+Directional accuracy @ 3m,44.72
+Average aligned move @ 3m (%),-0.0016
+Max aligned move @ 3m (%),0.3305
+Directional accuracy @ 9m,49.1
+Average aligned move @ 9m (%),-0.0027
+Max aligned move @ 9m (%),0.4717
+Directional accuracy @ 15m,48.64
+Average aligned move @ 15m (%),-0.0046
+Max aligned move @ 15m (%),0.6349
